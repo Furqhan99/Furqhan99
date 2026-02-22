@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud and DevOps<br><br>🌱 I’m currently learning DevSecOps, Generative ai<br><br>💬 Ask me about Full stack Development, Selenium Testing, Cloud/DevSecOps<br><br>📫 How to reach me mdfurqhan6011@gmail.com@gmail.com<br><br>⚡ Fun fact I once wrote a Dockerfile so efficient, it made my coffee before I even thought about needing it. ☕🐳
+🔭 I’m currently working on Cloud and DevOps<br><br>🌱 I’m currently learning DevSecOps, Generative ai<br><br>💬 Ask me about Full stack Development, Selenium Testing, Cloud/DevSecOps<br><br>📫 How to reach me mdfurqhan6011@gmail.com<br><br>⚡ Fun fact I once wrote a Dockerfile so efficient, it made my coffee before I even thought about needing it. ☕🐳
 
 
 ## 🌐 Socials:
