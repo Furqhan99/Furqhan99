@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Junior DevOps Engineer At Alagzoo s<br><br>🌱 I’m currently learning DevSecOps, Azure DevOps, MLOps, Agentic AI <br><br>💬 Ask me about Full stack Development, Selenium Testing, Cloud/DevSecOps<br><br>📫 How to reach me mdfurqhan6011@gmail.com<br><br>⚡ Fun fact I once wrote a Dockerfile so efficient, it made my coffee before I even thought about needing it. ☕🐳
+🔭 I’m currently working as a Junior DevOps Engineer At Alagzoo<br><br>🌱 I’m currently learning DevSecOps, Azure DevOps, MLOps, Agentic AI <br><br>💬 Ask me about Full stack Development, Selenium Testing, Cloud/DevSecOps<br><br>📫 How to reach me mdfurqhan6011@gmail.com<br><br>⚡ Fun fact I once wrote a Dockerfile so efficient, it made my coffee before I even thought about needing it. ☕🐳
 
 
 ## 🌐 Socials:
